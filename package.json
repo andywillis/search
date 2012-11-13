@@ -1,0 +1,21 @@
+{
+  "name": "search",
+  "main": "search.js",
+	"version": "0.1",
+  "description": "Vector search routine.",
+  "keywords": [
+    "vector",
+    "search"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/andywillis/search.git"
+  },
+  "author": {
+    "name": "Andy Willis",
+    "email": "awillis@lavabit.com"
+  },
+  "engines": {
+    "node": ">= 0.5.0"
+  }
+}
