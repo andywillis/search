@@ -1,7 +1,7 @@
 # Helpdesk
 
-Working with require.js and backbone.js to create a experimental single-page helpdesk application.
+Vector search routine
 
 ## License
-helpdesk &copy; 2012 Andy Willis  
+search &copy; 2012 Andy Willis  
 Licensed under the MIT license: http://www.opensource.org/licenses/mit-license.php
